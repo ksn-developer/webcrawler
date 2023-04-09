@@ -1,7 +1,7 @@
 #Hyperlink Crawler
 
 This is a Python script that crawls a website and saves the text content of each page in a text file. It also extracts all the hyperlinks from each page and follows the links that are within the same domain to continue the crawling process.
-Requirements
+
 
 
 ##Requirements
