@@ -132,8 +132,7 @@ class Crawler:
 
 if __name__ == "__main__":
 
-    # Define root domain to crawl
-    domain = ""
-    full_url = "" #example.com
+    domain = ""   #example.com
+    full_url = "" #https://example.com/
 
     Crawler().crawl(full_url)
